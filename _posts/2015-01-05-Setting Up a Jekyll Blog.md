@@ -21,6 +21,6 @@ To customize, it's important to change the title, email, author, description, an
 
 It's also important to change the name of the files in the posts folder, as well as their content, since the dates come from the title of the files. The "about.md" file also needs to be updated, and can be found in the main part of the repo. 
 
-When I add a file, I'll need to either add it online in my GitHub repo or "push" the new content from the command line or my MAC Github client. I'll also need to merge the branches so that the gh-pages are up-to-date, as described [here](http://stackoverflow.com/questions/5807459/github-mirroring-gh-pages-to-master).
+When I add a file, I'll need to either add it online in my GitHub repo or "push" the new content from the command line or my MAC Github client. I'll also need to merge the branches so that the gh-pages are up-to-date, as described in the second answer [here](http://stackoverflow.com/questions/5807459/github-mirroring-gh-pages-to-master).
 
 I hope these couple of tips help! I'm looking forward to writing more now that I have this blog set up.  
