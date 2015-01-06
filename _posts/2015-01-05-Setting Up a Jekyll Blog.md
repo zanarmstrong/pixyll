@@ -9,7 +9,7 @@ This is my second time using a Jekyll template to set up a blog. It was fairly s
 
 There is a growing list of [templates for Jekyll](http://jekyllthemes.org/) which seem to generally be open source under the MIT license, and forkable on Github. 
 
-I wanted to keep it looking pretty simple and also responsive, so chose ["Pixyll"](http://jekyllthemes.org/themes/pixyll/). I probably could have spent a few hours exploring different designs, but wanted to get things up and running.  Instructions are in the [Pixyll GitHub repo](https://github.com/johnotander/pixyll).
+I wanted to keep it looking pretty simple and also responsive, so chose ["Pixyll"](http://jekyllthemes.org/themes/pixyll/). I probably could have spent a few hours exploring different designs, but wanted to get things up and running.  Instructions are in the [Pixyll GitHub repo](https://github.com/johnotander/pixyll). Thanks to [John Otander](http://johnotander.com/) for the great template!
 
 To customize, it's important to change the title, email, author, description, and URL in the _config.yml file. I knew I wanted to point the site to a subdomain of my own domain name, so my URL is "blog.zanarmstrong.com".  Getting the blog to show up on my own site via GitHub Pages requires a few more steps: 
 
