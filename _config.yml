@@ -37,7 +37,3 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
-
-# when I push, push to gh-pages too
-push = +refs/heads/master:refs/heads/gh-pages
-push = +refs/heads/master:refs/heads/master
