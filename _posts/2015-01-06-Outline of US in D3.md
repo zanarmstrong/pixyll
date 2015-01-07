@@ -55,10 +55,45 @@ Now we have a small map of the continental United States.
 
 ![](https://lh3.googleusercontent.com/-cXN3IcuM2KE/VK2qeByt70I/AAAAAAAAbg4/TEZ8vB083pA/w402-h234-no/thumbnail.png)
 
-Code [here](http://bl.ocks.org/zanarmstrong/42dc0ba7b6b561d4d99e).
+More information on maps from Mike Bostock [here](http://bost.ocks.org/mike/map/) and [here](http://bost.ocks.org/mike/bubble-map/).
 
+#### Adding a point for a city
 
+Next goal is to add a point for a city. Using the tip from stackoverflow [here](http://stackoverflow.com/questions/20987535/plotting-points-on-a-map-with-d3), we can simply add a circle as follows: 
 
+{% highlight javascript %}
+ var citiesData = [{"city": "Chicago", location: {"lat": 41.87811, "long": -87.62980}}];
 
+ svg.append("g")
+    .attr("class", "cities")
+  .selectAll("circle")
+    .data(citiesData)
+  .enter().append("circle")
+    .attr("transform", function(d) {
+    	return "translate(" + projection([
+      		d.location.long,
+      		d.location.lat
+    		]) + ")"
+  		})
+    .attr("r", 3);
+{% endhighlight %}
 
+[This](http://universimmedia.pagesperso-orange.fr/geo/loc.htm) is a useful website if you quickly want to get the latitude and longitude of a particular location. 
+
+Now we can just add a longer list of interesting cities. 
+
+{% highlight javascript %}
+var citiesData = [{"city": "Chicago", location: {"lat": 41.87811, "long": -87.62980}},
+				  {"city": "New Orleans", location: {"lat": 29.95107 , "long": -90.07153}},
+				  {"city": "Seattle", location: {"lat": 47.60621, "long": -122.33207}},
+				  {"city": "Boston", location: {"lat":  42.35849, "long": -71.06010}}];
+{% endhighlight %}
+
+![](https://lh5.googleusercontent.com/-tg3aZxszsGQ/VK24OPUIr5I/AAAAAAAAbhY/dpTENyiE6QY/w300-h182-no/Screen%2BShot%2B2015-01-07%2Bat%2B2.43.31%2BPM.png)
+
+Of course, we can change the attributes of the circles using CSS. If we change the scale of the projection, it of course adjusts both the map and the city locations since both are based on the same projection object.  
+
+![](https://lh3.googleusercontent.com/-3zh92lm79CM/VK24OPVAr1I/AAAAAAAAbhc/Y7ODA3YVgy8/w478-h308-no/Screen%2BShot%2B2015-01-07%2Bat%2B2.46.25%2BPM.png)
+
+For reference, the relevant code is [here](http://bl.ocks.org/zanarmstrong/42dc0ba7b6b561d4d99e).
 
