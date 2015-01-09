@@ -31,13 +31,17 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 
 ![](https://lh3.googleusercontent.com/F7O2jUIi2yJol8Jl1AZ-OGyQ7WWEKgYqwYJqeDlhvF1T=w676-h513-no)
 
+[Colder in SF in January or June?](http://bl.ocks.org/zanarmstrong/raw/15558afddc79a52847bc/)
+
+![](https://lh6.googleusercontent.com/-bEinvWv9Elc/VK8n08rdRJI/AAAAAAAAbj8/g9DWeo_5xCo/w1114-h589-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.58.19%2BPM.png)
+
 ## Sketches & Explorations
 
 *D3/Javascript*
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
-[Jittery Line](http://bl.ocks.org/zanarmstrong/raw/d189ee30a7fb01ca6850/)
+![](https://lh4.googleusercontent.com/-cn65YCao4OM/VK8meorMDFI/AAAAAAAAbjo/dTIHcjPxWME/w925-h315-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.52.25%2BPM.png)
 
 [Adding Waves](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
 
@@ -45,13 +49,18 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 
 [Looks Like Rain](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
 
-[Adding Color to Zoomable Treemaps](http://bl.ocks.org/zanarmstrong/76d263bd36f312cb0f9f)
+*Simple Tools and Templates*
 
 [Formatting time tool for D3](http://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/)
+
+[Longitude and Latitude Look-up Tool for Cities Worldwide](http://bl.ocks.org/zanarmstrong/raw/b7381e04dcded29b2b6f/)
+
+[Adding Color to D3 Zoomable Treemaps Example](http://bl.ocks.org/zanarmstrong/raw/76d263bd36f312cb0f9f/)
 
 *Open Frameworks/C++*
 
 [Animation with triangles](https://vimeo.com/110936580)
+
 
 ## Writing
 
