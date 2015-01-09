@@ -31,7 +31,7 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 
 ![](https://lh3.googleusercontent.com/F7O2jUIi2yJol8Jl1AZ-OGyQ7WWEKgYqwYJqeDlhvF1T=w676-h513-no)
 
-[Colder in SF in January or June?](http://bl.ocks.org/zanarmstrong/raw/15558afddc79a52847bc/)
+[Colder in SF in January or June?  Temperatures by hour and day compared for US cities.](http://bl.ocks.org/zanarmstrong/raw/15558afddc79a52847bc/)
 
 ![](https://lh6.googleusercontent.com/-bEinvWv9Elc/VK8n08rdRJI/AAAAAAAAbj8/g9DWeo_5xCo/w1114-h589-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.58.19%2BPM.png)
 
