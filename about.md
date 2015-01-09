@@ -13,6 +13,8 @@ I studied math at Williams College, taught high school juniors at Chewonki Semes
 
 [Visualizing Simpson's Paradox and Mix Effects](http://research.google.com/pubs/pub42901.html)
 
+![](https://lh3.googleusercontent.com/MTW7-Zt0ygzEkexk8g52KbiNTcvCIQyjH5NwlWQFM9qq=w776-h564-no)
+
 I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
 ## Projects
@@ -24,6 +26,10 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 [New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
 
 ![](https://lh4.googleusercontent.com/RT47aDwjGHz4-x3_hmM1btsL-6kTpb7NiqPM1rUvckD_=w395-h207-p-no)
+
+[Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/5fbc4b93f62227dedeb7/)
+
+![](https://lh3.googleusercontent.com/F7O2jUIi2yJol8Jl1AZ-OGyQ7WWEKgYqwYJqeDlhvF1T=w676-h513-no)
 
 ## Sketches & Explorations
 
