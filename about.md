@@ -31,9 +31,13 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 
 ![](https://lh3.googleusercontent.com/F7O2jUIi2yJol8Jl1AZ-OGyQ7WWEKgYqwYJqeDlhvF1T=w676-h513-no)
 
-[Exploring typical temperatures: Mark Twain is wrong - San Francisco's summer isn't even as cold as it's winter.](http://bl.ocks.org/zanarmstrong/raw/15558afddc79a52847bc/)
+[Exploring typical cloud cover, temperatures, and wind speeds in cities across the US.](http://weatherlines.zanarmstrong.com/)
 
-![](https://lh6.googleusercontent.com/-bEinvWv9Elc/VK8n08rdRJI/AAAAAAAAbj8/g9DWeo_5xCo/w1114-h589-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.58.19%2BPM.png)
+![](https://lh4.googleusercontent.com/-UXFbWDmfGAs/VMCQZIm2HeI/AAAAAAAAb8U/u_A6Tfar3KU/w1091-h582-no/Screen%2BShot%2B2015-01-21%2Bat%2B9.53.07%2BPM.png)
+
+[Weather by day and hour](http://weather.zanarmstrong.com/)
+
+![](https://lh5.googleusercontent.com/-G7bz15D2IvE/VMCPZJsjpTI/AAAAAAAAb74/BVdiDl67wII/w284-h268-no/Screen%2BShot%2B2015-01-21%2Bat%2B9.48.43%2BPM.png)
 
 ## Sketches & Explorations
 
