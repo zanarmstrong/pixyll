@@ -17,6 +17,8 @@ I studied math at Williams College, taught high school juniors at Chewonki Semes
 
 I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
+The slide deck from the presentation is [here](https://docs.google.com/presentation/d/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo/edit?usp=sharing).
+
 ## Projects
 
 [Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
@@ -73,6 +75,11 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 [Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
 
 [Previous blog](http://zanstrong.wordpress.com/)
+
+## Teaching Data Viz
+
+[Teaching Data Viz to Second Graders - worksheet and description](http://blog.zanarmstrong.com/project/2015/01/22/Teaching%20Data%20Viz%20to%20Second%20Graders/)
+
 
 ## Experience
 
