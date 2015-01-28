@@ -11,17 +11,14 @@ For example, consider the URL: [http://weather.zanarmstrong.com/#city=FARGO&metr
 
 To access the hash, assuming it's seperated by &: 
 
-'''
-window.location.hash.split("&")
-'''
+	window.location.hash.split("&")
+
 
 Then parse the resulting array in order to set the state of the visualization to the one specified in the URL.   
 
 To set a hash, write something like: 
 
-'''
-window.location.hash = "city=FARGO&metric=cloudCover&colored=1";
-'''
+	window.location.hash = "city=FARGO&metric=cloudCover&colored=1";
 
 Clearly you can paste together text and variables to set this, based on whatever your current state is.
 
