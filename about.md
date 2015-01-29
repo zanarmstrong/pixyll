@@ -41,6 +41,10 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 ![](https://lh5.googleusercontent.com/-G7bz15D2IvE/VMCPZJsjpTI/AAAAAAAAb74/BVdiDl67wII/w284-h268-no/Screen%2BShot%2B2015-01-21%2Bat%2B9.48.43%2BPM.png)
 
+[Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
+
+![](https://lh5.googleusercontent.com/-04NQbEBzq8k/VMq7nEfnHKI/AAAAAAAAcRw/WsUblA3iKq8/w1118-h412-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.58.19%2BPM.png)
+
 ## Sketches & Explorations
 
 *D3/Javascript*
