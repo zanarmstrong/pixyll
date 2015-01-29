@@ -39,7 +39,7 @@ Zooming in on a small sections of the input image show similar hues, even with v
 
 ![](https://lh4.googleusercontent.com/-4X6FnM38CN8/VMq94Nw75FI/AAAAAAAAcT8/GREYD93CmRU/w478-h217-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.37%2BPM.png)
 
-After resorting, hues are no longer as uniform though brightness is still fairly consistent. Ovearll the image looks more grey and pixelalled.  
+After resorting, hues are no longer as uniform though brightness is still fairly consistent. Ovearll the image looks more grey and pixelalled. Below we see an area of the flower that was painted with a lot of the phone's blue from the input image and another area of the flower that received a lot of the skin color.
 
 ![](https://lh6.googleusercontent.com/-1Jw0cLDgHQQ/VMq94UYIOpI/AAAAAAAAcUA/7KF_p_Z3HCI/w228-h216-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.52%2BPM.png)
 
