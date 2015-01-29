@@ -35,6 +35,8 @@ If you want to give it a try, you can download the app [here](https://www.dropbo
 
 The project revealed interesting things about how we perceive color.  Even though every pixel on the left is somewhere in the image on the right, with the same exact color, the right image generally appears much more as shades of gray or near-gray.  What I think is happening is that in the source image, a blue-ish color will most likely be adjacent to another blue-ish color, creating a blueish area. When placed by brightness, now two pixels with similar brightness will likely be adjacent, even if one of them is redish and the other is blueish. These seem to blur in our eyes, therefore making the right image appear more grey than the left. Furthermore, when blue-ish pixels are together in the source image, we'll perceive them as blue even if some of them are actually more grey due to a shadow. When they are rearranged, we lose the context.
 
+Moreover, in this example, the seeming green colors of the sweater is mostly lost to our perception in the second image. 
+
 Zooming in on a small sections of the input image show similar hues, even with varied brightness. The first image is from the phone's cover and the second from my hand. 
 
 ![](https://lh4.googleusercontent.com/-4X6FnM38CN8/VMq94Nw75FI/AAAAAAAAcT8/GREYD93CmRU/w478-h217-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.37%2BPM.png)
