@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Drawing One Picture with Another
+title:      Same Pixels, Different Picture
 summary:    final SFPC project
 categories: project
 ---
