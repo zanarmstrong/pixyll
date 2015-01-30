@@ -7,9 +7,9 @@ categories: project
 
 In mid-December I shared my final SFPC project at our open house. 
 
-It plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  Every pixel on the left side shows up somewhere on the right side, with the same exact color. One the right, I first simple ordered by a quarter circle radiating from the upper left. In other instances I used a seed image to determine the order of the brightness of the pixel on the right.  The colors from the left image are arranged based on the brightness of the right seed image, to create the resulting image.  
+It plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  Every pixel on the left side shows up somewhere on the right side, with the same exact color. You might not believe it when you see how different the images look, but it's true :). On the right, I first simply ordered in arcs radiating from the upper left corner. In other instances I used a seed image to determine the order of the brightness of the pixel on the right, so I was using the colors from the left image to sort-of paint the right image.  The colors from the left image are arranged based on the brightness of the right seed image, to create the resulting image.  
 
-A still example is here shown with simply sorting to seed right side and with an image as the seed. Sorry for the cheesiness of holding up my phone... it was the most colorful thing I had onhand.  
+A still example is here shown with simply sorting to seed right side and with an image as the seed. Sorry for the cheesiness of holding up my phone... it was the most colorful thing I had on hand when taking the screenshots. During the exhibit, I had colorful paper available to people could play with seeing how the image changed if they introduced more color to the input.  
 
 Sorting to seed the right side:
 ![](https://lh4.googleusercontent.com/-0gPmIWqgWT8/VMq7ntMfBOI/AAAAAAAAcSI/buWWmpIf1s8/w1118-h419-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.59.00%2BPM.png) 
