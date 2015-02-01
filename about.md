@@ -43,7 +43,7 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
-![](https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no)
+ <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
 
 ## Sketches & Explorations
 
