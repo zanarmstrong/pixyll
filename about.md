@@ -23,23 +23,23 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
 
-![](https://lh5.googleusercontent.com/C5UDSBQE4A_UignFm7UgWMQkiVCW-A75NaC-qNaLFA2l=w390-h207-p-no)
+![](images/billionseconds.png)
 
 [New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
 
-![](https://lh4.googleusercontent.com/RT47aDwjGHz4-x3_hmM1btsL-6kTpb7NiqPM1rUvckD_=w395-h207-p-no)
+![](impages/nz.jpg)
 
 [Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/5fbc4b93f62227dedeb7/)
 
-![](https://lh3.googleusercontent.com/F7O2jUIi2yJol8Jl1AZ-OGyQ7WWEKgYqwYJqeDlhvF1T=w676-h513-no)
+![](images/jitterystar.gif)
+
+[Weather Circles (aka Weather 24-gons)](http://weather.zanarmstrong.com/)
+
+![](images/weathercircles.png)
 
 [Exploring typical cloud cover, temperatures, and wind speeds in cities across the US.](http://weatherlines.zanarmstrong.com/)
 
-![](https://lh4.googleusercontent.com/-UXFbWDmfGAs/VMCQZIm2HeI/AAAAAAAAb8U/u_A6Tfar3KU/w1091-h582-no/Screen%2BShot%2B2015-01-21%2Bat%2B9.53.07%2BPM.png)
-
-[Weather by day and hour](http://weather.zanarmstrong.com/)
-
-![](https://lh5.googleusercontent.com/-G7bz15D2IvE/VMCPZJsjpTI/AAAAAAAAb74/BVdiDl67wII/w284-h268-no/Screen%2BShot%2B2015-01-21%2Bat%2B9.48.43%2BPM.png)
+![](images/weatherlines.png)
 
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
@@ -51,9 +51,9 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
-![](https://lh4.googleusercontent.com/-cn65YCao4OM/VK8meorMDFI/AAAAAAAAbjo/dTIHcjPxWME/w925-h315-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.52.25%2BPM.png)
+[Adding Waves](images/addingwaves.png)
 
-[Adding Waves](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
+![](https://lh4.googleusercontent.com/-cn65YCao4OM/VK8meorMDFI/AAAAAAAAbjo/dTIHcjPxWME/w925-h315-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.52.25%2BPM.png)
 
 [Comet Chart](http://bl.ocks.org/zanarmstrong/0f3f39deed0ee1653354)
 
@@ -84,12 +84,11 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [Teaching Data Viz to Second Graders - worksheet and description](http://blog.zanarmstrong.com/project/2015/01/22/Teaching%20Data%20Viz%20to%20Second%20Graders/)
 
-
 ## Experience
 
-Contact me to request a copy of my resume.
+[Contact me](http://blog.zanarmstrong.com/contact/) to request a copy of my resume.
 
 ## Contact
 
-Reach out to me using the links below. Thanks!
+Reach out to me using the links at the top of the screen (just under the title) or on the [contact page](http://blog.zanarmstrong.com/contact/). 
 
