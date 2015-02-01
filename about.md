@@ -31,7 +31,7 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/5fbc4b93f62227dedeb7/)
 
-![](../images/jitter-star.gif)
+ <img src="../images/jitter-star.gif" alt="" height="200" width="400">
 
 [Weather Circles (aka Weather 24-gons)](http://weather.zanarmstrong.com/)
 
