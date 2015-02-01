@@ -51,9 +51,9 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
-[Adding Waves](../images/addingwaves.png)
+[Adding Waves](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
 
-![](https://lh4.googleusercontent.com/-cn65YCao4OM/VK8meorMDFI/AAAAAAAAbjo/dTIHcjPxWME/w925-h315-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.52.25%2BPM.png)
+![](../images/addingwaves.png)
 
 [Comet Chart](http://bl.ocks.org/zanarmstrong/0f3f39deed0ee1653354)
 
