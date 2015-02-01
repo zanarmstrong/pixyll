@@ -23,23 +23,23 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
 
-![](images/billionseconds.png)
+![](../images/billionseconds.png)
 
 [New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
 
-![](impages/nz.jpg)
+![](../images/nz.jpg)
 
 [Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/5fbc4b93f62227dedeb7/)
 
-![](images/jitterystar.gif)
+![](../images/jitterystar.gif)
 
 [Weather Circles (aka Weather 24-gons)](http://weather.zanarmstrong.com/)
 
-![](images/weathercircles.png)
+![](../images/weathercircles.png)
 
 [Exploring typical cloud cover, temperatures, and wind speeds in cities across the US.](http://weatherlines.zanarmstrong.com/)
 
-![](images/weatherlines.png)
+![](../images/weatherlines.png)
 
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
@@ -51,7 +51,7 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
-[Adding Waves](images/addingwaves.png)
+[Adding Waves](../images/addingwaves.png)
 
 ![](https://lh4.googleusercontent.com/-cn65YCao4OM/VK8meorMDFI/AAAAAAAAbjo/dTIHcjPxWME/w925-h315-no/Screen%2BShot%2B2015-01-08%2Bat%2B4.52.25%2BPM.png)
 
