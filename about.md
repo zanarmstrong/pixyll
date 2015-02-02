@@ -65,7 +65,9 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 *Simple Tools and Templates*
 
-[Formatting time tool for D3](http://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/)
+[Formatting numbers tool for D3](http://bl.ocks.org/zanarmstrong/raw/05c1e95bf7aa16c4768e/)
+
+[Formatting time/date tool for D3](http://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/)
 
 [Longitude and Latitude Look-up Tool for Cities Worldwide](http://bl.ocks.org/zanarmstrong/raw/b7381e04dcded29b2b6f/)
 
