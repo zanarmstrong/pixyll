@@ -25,7 +25,7 @@ An image of an iguana seeds the right side:
 
 ## Two modes: Single Sorting and Double Sorting
 
-There are also two modes: single sorting and double sorting. In single sorting, only the seed image on the right is ordered by brightness. In double sorting, both images are sorted by brightness before mapping pixel colors from the left image onto the right image. The seed image is easier to perceive with double-sorting, but we generally seem to perceive more color in the single sorting because continguous colors in the input are more likely to stay together with only single sorting. 
+There are also two modes: single sorting and double sorting. In single sorting, only the seed image on the right is ordered by brightness. In double sorting, both images are sorted by brightness before mapping pixel colors from the left image onto the right image. In other words, the color of the 100th brightest pixel on the left is then applied to the 100th brightest pixel on the right. The seed image is easier to perceive with double-sorting, but we generally seem to perceive more color in the single sorting because continguous colors in the input are more likely to stay together with only single sorting. 
 
 Single sorting: 
 ![](https://lh4.googleusercontent.com/-0gPmIWqgWT8/VMq7ntMfBOI/AAAAAAAAcSI/buWWmpIf1s8/w1118-h419-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.59.00%2BPM.png)
