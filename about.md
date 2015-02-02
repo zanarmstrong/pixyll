@@ -7,7 +7,11 @@ permalink: /about/
 
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others. 
 
-I studied math at Williams College, taught high school juniors at Chewonki Semester School in Maine, raced through the forests of Sweden, analyzed data and forecasted revenue at Google, and developed a new charting style to visualize Simpson's paradox. I am currently studying and doing freelance work in analysis and visualization, and am always on the lookout for great people to work with and important/interesting data to analyze and visualize. 
+I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering. 
+
+At Google, I was the lead analyst responsible for forecasting and analyzing global search ads revenue. Motivated by my work as an analyst, I developed a new charting style to visualize Simpson's paradox and related statistical issues. 
+
+I am currently doing freelance work in analysis/interactive visualization and studying. I am always on the lookout for great people to work with and important/interesting data to analyze and visualize. 
 
 ## Data Viz Research
 
