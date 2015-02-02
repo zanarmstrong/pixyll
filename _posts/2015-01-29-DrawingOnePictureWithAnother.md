@@ -8,7 +8,11 @@ categories: project
 In mid-December I shared my final SFPC project at our open house. 
 
 ## Rearranging Pixels
-It plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  Every pixel on the left side shows up somewhere on the right side, with the same exact color. You might not believe it when you see how different the images look, but it's true :). On the right, I first simply ordered in arcs radiating from the upper left corner. In other instances I used a seed image to determine the order of the brightness of the pixel on the right, so I was using the colors from the left image to sort-of paint the right image.  The colors from the left image are arranged based on the brightness of the right seed image, to create the resulting image.  
+The project plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  
+
+**Every pixel on the left side shows up somewhere on the right side, with the same exact color.** You might not believe it when you see how different the images look, but it's guarenteed in the code. 
+
+On the right, I first simply ordered in arcs radiating from the upper left corner. In other instances I used a seed image to determine the order of the brightness of the pixel on the right, so I was using the colors from the left image to sort-of paint the right image.  The colors from the left image are arranged based on the brightness of the right seed image, to create the resulting image.  
 
 ## Examples
 A still example is here shown with simply sorting to seed right side and with an image as the seed. Sorry for the cheesiness of holding up my phone... it was the most colorful thing I had on hand when taking the screenshots. During the exhibit, I had colorful paper available to people could play with seeing how the image changed if they introduced more color to the input.  
