@@ -33,7 +33,7 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 ![](../images/nz.jpg)
 
-[Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/5fbc4b93f62227dedeb7/)
+[Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/23137b412caf6e80b34a/)
 
  <img src="../images/jitter-star.gif" alt="" height="200" width="400">
 
@@ -48,6 +48,10 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
  <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
+
+[Voronoi Polygons, Delauney Triangulation, and Circumcircles](http://bl.ocks.org/zanarmstrong/raw/b1c051113be144570881/)
+
+![](../images/voronoi.png)
 
 ## Sketches & Explorations
 
