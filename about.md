@@ -19,9 +19,11 @@ I am currently doing freelance work in analysis/interactive visualization and st
 
 ![](https://lh3.googleusercontent.com/MTW7-Zt0ygzEkexk8g52KbiNTcvCIQyjH5NwlWQFM9qq=w776-h564-no)
 
-I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
+I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE (23% acceptance rate). It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
-The slide deck from the presentation is [here](https://docs.google.com/presentation/d/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo/edit?usp=sharing).
+The slide deck from the presentation is [here](https://docs.google.com/presentation/d/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo/edit?usp=sharing). 
+
+Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagereyes.org/blog/2014/vis-2014-wednesday) and it was mentioned in Moritz Stefaner and Enrico Bertini's [Data Stories](http://datastori.es/data-stories-43-ieee-vis14/) podcast.
 
 ## Projects
 
