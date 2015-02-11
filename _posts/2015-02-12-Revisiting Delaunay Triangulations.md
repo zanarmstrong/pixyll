@@ -25,13 +25,16 @@ Looking at it again this morning, I was able to easily find an example in which 
 
 These screenshots help explain it: 
 
-![](../../../../../images/delauney1.png)
 At the start, it's clear that we need to connect B and D as shown. 
 
-![](../../../../../images/delauney2.png)
+![](../../../../../images/delauney1.png)
+
 As I bring in point A, the circles become more similar in size. 
 
-![](../../../../../images/delauney3.png)
+![](../../../../../images/delauney2.png)
+
 Finally, when A is too close, the triangles flip to connect A-C and B-D. If this hadn't happened, A would have falled inside the circle for BCD when the radius of BCD. 
+
+![](../../../../../images/delauney3.png)
 
 So, the triangulation is defined by the relative sizes of the circles. I believe this can also be described by the angles of the triangle, but I haven't thought through the details. Guess I'll be doing that next :)
