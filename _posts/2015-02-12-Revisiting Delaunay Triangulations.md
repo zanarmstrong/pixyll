@@ -33,7 +33,7 @@ As I bring in point A, the circles become more similar in size.
 
 ![](../../../../../images/delauney2.png)
 
-Finally, when A is too close, the triangles flip to connect A-C and B-D. If this hadn't happened, A would have falled inside the circle for BCD when the radius of BCD. 
+Finally, when A is too close, the triangles flip to connect A-C instead of B-D. If this hadn't happened, A would have falled inside the circle for BCD when the radius of BCD. 
 
 ![](../../../../../images/delauney3.png)
 
