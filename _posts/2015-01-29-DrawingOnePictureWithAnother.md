@@ -3,6 +3,7 @@ layout:     post
 title:      Same Pixels, Different Picture
 summary:    final SFPC project
 categories: project
+img: example.png
 ---
 
 My final SFPC project, which I shared at the December SFPC open house, was about playing with how a set of pixels could paint a totally different picture when rearranged.  

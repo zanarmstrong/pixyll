@@ -3,6 +3,7 @@ layout:     post
 title:      City selection with a small map
 summary:    Using a map rather than drop-down menu to select cities
 categories: log
+img: mapForNav.png
 ---
 
 Today I added a small map to my [typical temperature](http://bl.ocks.org/zanarmstrong/raw/15558afddc79a52847bc/) visualization for city selection, replacing the drop-down menu. 
