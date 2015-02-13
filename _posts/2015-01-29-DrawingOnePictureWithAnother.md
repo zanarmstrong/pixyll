@@ -11,6 +11,8 @@ Here is a gif of it in action.
 
 <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
 
+## Download and Try It Yourself
+If you want to give it a try and you have a Mac, [you can download the app](https://www.dropbox.com/s/e9gt7qoyrdsvbc4/rearrangingPixels.zip?dl=0). Note, a few seconds after opening it will start to use your computer's camera as an input feed. Clicking "f" will toggle between the singly sorted and doubly sorted view.  Clicking any other key will switch between seed images on the right. 
 
 ## Rearranging Pixels
 The project plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  
@@ -42,10 +44,7 @@ Single sorting with a flower input image:
 ![](https://lh5.googleusercontent.com/-04NQbEBzq8k/VMq7nEfnHKI/AAAAAAAAcRw/WsUblA3iKq8/w1118-h412-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.58.19%2BPM.png)
 
 Double sorting with a flower input image:
-![](https://lh4.googleusercontent.com/-MMtUp4vINAk/VMq7oi8-9GI/AAAAAAAAcSQ/ysDVGbBD3fs/w1117-h411-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.59.45%2BPM.png)
-
-## Download and Try It Yourself
-If you want to give it a try and you have a Mac, [you can download the app](https://www.dropbox.com/s/e9gt7qoyrdsvbc4/rearrangingPixels.zip?dl=0). Note, a few seconds after opening it will start to use your computer's camera as an input feed. Clicking "f" will toggle between the singly sorted and doubly sorted view.  Clicking any other key will switch between seed images on the right. 
+![](../../../../../images/pixels5.png)
 
 ## Exploring Color Perception
 
