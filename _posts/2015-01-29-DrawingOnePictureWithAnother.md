@@ -25,10 +25,10 @@ On the right, I first simply ordered in arcs radiating from the upper left corne
 A still example is here shown with simply sorting to seed right side and with an image as the seed. Sorry for the cheesiness of holding up my phone... it was the most colorful thing I had on hand when taking the screenshots. During the exhibit, I had colorful paper available to people could play with seeing how the image changed if they introduced more color to the input.  
 
 Sorting to seed the right side:
-![](https://lh4.googleusercontent.com/-0gPmIWqgWT8/VMq7ntMfBOI/AAAAAAAAcSI/buWWmpIf1s8/w1118-h419-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.59.00%2BPM.png) 
+![](../../../../../images/pixels2.png)
 
 An image of an iguana seeds the right side:
-![](https://lh3.googleusercontent.com/-s8eKPkjnCDQ/VMq7l4Cri8I/AAAAAAAAcSc/yGB5GLu5HuE/w1118-h411-no/Screen%2BShot%2B2015-01-29%2Bat%2B2.56.52%2BPM.png)
+![](../../../../../images/pixels1.png)
 
 ## Two modes: Single Sorting and Double Sorting
 
@@ -54,13 +54,11 @@ Moreover, in this example, the seeming green colors of the sweater is mostly los
 
 Zooming in on a small sections of the input image show similar hues, even with varied brightness. The first image is from the phone's cover and the second from my hand. 
 
-![](https://lh4.googleusercontent.com/-4X6FnM38CN8/VMq94Nw75FI/AAAAAAAAcT8/GREYD93CmRU/w478-h217-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.37%2BPM.png)
+![](../../../../../images/pixels6.png)
 
 After resorting, hues are no longer as uniform though brightness is still fairly consistent. Ovearll the image looks more grey and pixelalled. Below we see an area of the flower that was painted with a lot of the phone's blue from the input image and another area of the flower that received a lot of the skin color.
 
-![](https://lh6.googleusercontent.com/-1Jw0cLDgHQQ/VMq94UYIOpI/AAAAAAAAcUA/7KF_p_Z3HCI/w228-h216-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.52%2BPM.png)
-
-![](https://lh5.googleusercontent.com/-CZUQyJf7kKY/VMq94PZevQI/AAAAAAAAcT0/O3IlXnHwJPw/w249-h206-no/Screen%2BShot%2B2015-01-29%2Bat%2B3.09.58%2BPM.png)
+![](../../../../../images/pixels7.png)
 
 ## So What?
 While the raw "data" (set of colored pixels) is exactly the same on the right and the left, the data takes on completely different meaning when reordered. Even more, the reordering changes our perception of the colors so that it no longer even appears that both images contain the same information. Holding colorful objects in front of the camera and seeing the right image react convinces us that, yes, the pixels are the same as we see a set of hues appear or disappear.
