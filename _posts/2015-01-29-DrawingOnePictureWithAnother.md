@@ -5,7 +5,12 @@ summary:    final SFPC project
 categories: project
 ---
 
-In mid-December I shared my final SFPC project at our open house. 
+My final SFPC project, which I shared at the December SFPC open house, was about playing with how a set of pixels could paint a totally different picture when rearranged.  
+
+Here is a gif of it in action. 
+
+<img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
+
 
 ## Rearranging Pixels
 The project plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  
