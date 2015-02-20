@@ -95,6 +95,7 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 ## Teaching Data Viz
 
 [Bay Area D3 Meetup: Math + D3](https://docs.google.com/presentation/d/1QuzE_v1B9-f8WigM_1avncJFR6PmUBWYAGzZWN2s45Q/edit?usp=sharing)
+Video posted [here](https://www.youtube.com/watch?v=1PHVN6gW82o#t=6s).
 
 [Teaching Data Viz to Second Graders - worksheet and description](http://blog.zanarmstrong.com/project/2015/01/22/Teaching%20Data%20Viz%20to%20Second%20Graders/)
 
