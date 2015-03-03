@@ -13,7 +13,7 @@ Here is a gif of it in action.
 <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
 
 ## Download and Try It Yourself
-If you want to give it a try and you have a Mac, [you can download the app](https://www.dropbox.com/s/e9gt7qoyrdsvbc4/rearrangingPixels.zip?dl=0). Note, a few seconds after opening it will start to use your computer's camera as an input feed. Clicking "f" will toggle between the singly sorted and doubly sorted view.  Clicking any other key will switch between seed images on the right. 
+If you want to give it a try and you have a Mac, [you can download the app](https://www.dropbox.com/s/fm1a8jtj1sfw388/Archive.zip?dl=0). Note, a few seconds after opening it will start to use your computer's camera as an input feed. Clicking "f" will toggle between the singly sorted and doubly sorted view.  Clicking any other key will switch between seed images on the right. 
 
 ## Rearranging Pixels
 The project plays with the idea of taking information and changing the meaning through rearrangement.  It takes in a video feed from the computer's camera and displays that on the left side of the screen.  
