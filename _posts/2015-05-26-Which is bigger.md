@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Which is bigger: Africa or North America?
+title:      Which is bigger - Africa or North America?
 summary:    A tool to compare the real size of countries
 categories: projects
 img: countries.png
