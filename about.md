@@ -57,7 +57,7 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 [Which is Bigger: Africa or North America?](http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/)
 
-![](../images/countries.png height="200")
+![](../images/countries.png)
 
 ## Sketches & Explorations
 
