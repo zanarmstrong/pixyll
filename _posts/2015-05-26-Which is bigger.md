@@ -3,6 +3,7 @@ layout:     post
 title:      Which is bigger: Africa or North America?
 summary:    A tool to compare the real size of countries
 categories: projects
+img: countries.png
 ---
 
 A few days ago I read a friend's story of why he decided to go help fight Ebola in Sierra Leone as a doctor with Partners in Health.
