@@ -27,13 +27,9 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 ## Projects
 
-[Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
+[Which is Bigger: Africa or North America?](http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/)
 
-![](../images/billionseconds.png)
-
-[New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
-
-![](../images/nz.jpg)
+![](../images/countries.png)
 
 [Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/23137b412caf6e80b34a/)
 
@@ -55,9 +51,13 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 ![](../images/voronoi.png)
 
-[Which is Bigger: Africa or North America?](http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/)
+[Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
 
-![](../images/countries.png)
+![](../images/billionseconds.png)
+
+[New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
+
+![](../images/nz.jpg)
 
 ## Sketches & Explorations
 
