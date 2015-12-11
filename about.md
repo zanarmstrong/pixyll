@@ -33,7 +33,7 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 [Dying to be in Europe: Visualizing Stories from The Migrant Files (a work in progress)](http://bl.ocks.org/zanarmstrong/raw/6f032bfbabf99bbaa3cb/)
 
-![](../images/migrants.png)
+![](../images/migrant.png)
 
 [Weather Circles (aka Weather 24-gons)](http://weather.zanarmstrong.com/)
 
