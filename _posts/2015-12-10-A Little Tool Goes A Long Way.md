@@ -6,7 +6,9 @@ categories: projects
 img: googlesearch.png
 ---
 
-Ian Johnson discovered that my [d3 number formatting helper tool](http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e) is now *the* Google "One Box" answer to searches for "d3 format number". I'm pretty excited :).  
+Ian Johnson discovered that my [d3 number formatting helper tool](http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e) is now *the* Google "One Box" answer to searches for "d3 format number". 
 
-When you make a tool to help solve your own problems, it's worth sharing since it seems likely that it will help others too. I appreciate that bl.ocks makes it so easy to share something like this. 
+![]({{ site.url }}/images/googlesearch.png)
+
+Pretty psyched that it's gotten so popular and people have found it helpful, given that it was just a scrappy little tool I made to help myself test out number formatting syntaxes. A good reminder that small things can be super useful, and it's worth sharing things even if unpolished.
 

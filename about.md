@@ -31,7 +31,7 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 ![](../images/countries.png)
 
-[Dying to be in Europe: Visualizing Stories from The Migrant Files (a work in progress)](http://bl.ocks.org/zanarmstrong/raw/6f032bfbabf99bbaa3cb/)
+[Dying to be in Europe: Visualizing Stories from The Migrant Files (WIP)](http://bl.ocks.org/zanarmstrong/raw/6f032bfbabf99bbaa3cb/)
 
 ![](../images/migrant.png)
 
