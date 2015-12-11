@@ -31,9 +31,9 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 ![](../images/countries.png)
 
-[Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/23137b412caf6e80b34a/)
+[Dying to be in Europe: Visualizing Stories from The Migrant Files (a work in progress)](http://bl.ocks.org/zanarmstrong/raw/6f032bfbabf99bbaa3cb/)
 
- <img src="../images/jitter-star.gif" alt="" height="200" width="400">
+![](../images/migrants.png)
 
 [Weather Circles (aka Weather 24-gons)](http://weather.zanarmstrong.com/)
 
@@ -45,7 +45,11 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
- <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
+<img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
+
+[Dancing Line Drawing Tool](http://bl.ocks.org/zanarmstrong/raw/23137b412caf6e80b34a/)
+
+<img src="../images/jitter-star.gif" alt="" height="200" width="400">
 
 [Voronoi Polygons, Delauney Triangulation, and Circumcircles](http://bl.ocks.org/zanarmstrong/raw/b1c051113be144570881/)
 
