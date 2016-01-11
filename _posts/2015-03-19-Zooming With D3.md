@@ -3,6 +3,7 @@ layout:     post
 title:      Zooming with D3
 summary:    Exploring various properties of Zooming with D3
 categories: projects
+img: blank.png
 ---
 
 D3 has some built in zoom beahvior, but I haven't used it yet. Today's goal is to get to know zooming: what parameters are available, how they work, and any other tips and tricks. 

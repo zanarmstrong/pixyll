@@ -3,6 +3,7 @@ layout:     post
 title:      Last Couple of Days
 summary:    how time flies!
 categories: project
+img: blank.png
 ---
 
 Highlights of the last few days included: 

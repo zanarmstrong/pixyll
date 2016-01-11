@@ -3,6 +3,7 @@ layout:     post
 title:      Learning from the Past
 summary:    Data viz with graph paper or tracing paper
 categories: reading
+img: blank.png
 ---
 
 I think there is a lot to learn from our past, especially in a subject like data visualization that feels like it's moving so fast right now. So much of the more recent work is variations and adaptions of what has come before, that it's useful to understand these earlier ideas in context. 

@@ -3,6 +3,7 @@ layout:     post
 title:      Algorithms Continued
 summary:    Notes on Coursera's Algorithms Course
 categories: project
+img: blank.png
 ---
 
 Last April, my friend Eric told me that I would love taking Coursera's Algorithm's class by Stanford's Tim Roughgarden.  I love it.  They remind me of my math problem sets in college. Now, why it didn't occur to me to take the course when I actually was in college... is probably fodder for a different essay.   
