@@ -3,6 +3,7 @@ layout:     post
 title:      Quiet Day Reading List
 summary:    A few articles and videos on a quiet day
 categories: log
+img: blank.png
 ---
 
 Started the day finally watching [Eric Rodenbecks's 2014 Eyeo](http://vimeo.com/112308535) talk that I had unfortunately missed seeing in person last year, but had heard that I had to see.  Very glad that I did.  It seems quite honest and humble which are two of the things that I value about the Eyeo community. 

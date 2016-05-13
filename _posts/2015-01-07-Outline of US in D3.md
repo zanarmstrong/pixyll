@@ -3,6 +3,7 @@ layout:     post
 title:      Small Map of Continental US
 summary:    Get map data from US government, transform with topojson, view with D3
 categories: how-to
+img: blank.png
 ---
 
 The goal of this post is to create a small map of the United States which can be used to select different cities which appear on the map. This will be driving another visualization with data about the selected city. For data I'll need the topojson file for the boundary of the United States, the lat/lon for the cities of interest, and the list of cities to show. 

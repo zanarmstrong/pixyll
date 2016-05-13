@@ -3,6 +3,7 @@ layout:     post
 title:      Setting Up a Jekyll Blog
 summary:    Quick how-to guide for setting up a blog using Jekyll and GitHub Pages
 categories: how-to
+img: blank.png
 ---
 
 This is my second time using a Jekyll template to set up a blog. It was fairly straightforward because I forked an existing template and because I'd done it once before. The templates each come with instructions, but I thought I'd write a bit about my process to supplement these. 

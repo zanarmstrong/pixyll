@@ -3,6 +3,7 @@ layout:     post
 title:      GitHub Pages Trick
 summary:    Super useful trick for pushing to ghpages branch when you update master
 categories: project
+img: blank.png
 ---
 
 A few weeks ago I found this tip, and am posting now because I needed it again. I use Github Pages for this blog, as well as some other sites. It's great to be able to update directly from the command line. But, the live version is based on the gh-pages branch and not the master branch. So, typically when I push to master I also want to push to the live version. 

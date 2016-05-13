@@ -3,6 +3,7 @@ layout:     post
 title:      Teaching Data Viz to Second Graders
 summary:    Materials to introduce second graders to data visualization
 categories: project
+img: blank.png
 ---
 
 In December 2013 I had the chance to visit my friend Louisa's 2nd grade classroom to co-teach a lesson on data visualization. The students had previously created some graphs. My goal in this lesson was to introduce them to somre more complex visualizations online, and help them think critically about these visualizations. 
