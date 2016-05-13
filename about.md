@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 
-I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others. 
+I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
 
-I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering. 
+I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering.
 
-At Google, I was the lead analyst responsible for forecasting and analyzing global search ads revenue. Motivated by my work as an analyst, I developed a new charting style to visualize Simpson's paradox and related statistical issues. 
+At Google, I was the lead analyst responsible for forecasting and analyzing global search ads revenue. Motivated by my work as an analyst, I developed a new charting style to visualize Simpson's paradox and related statistical issues.
 
-I am currently doing freelance work in analysis/interactive visualization and studying. I am always on the lookout for great people to work with and important/interesting data to analyze and visualize. 
+I am currently doing freelance work in analysis/interactive visualization and studying. I am always on the lookout for great people to work with and important/interesting data to analyze and visualize.
 
 ## Data Viz Research
 
@@ -19,11 +19,19 @@ I am currently doing freelance work in analysis/interactive visualization and st
 
 ![](https://lh3.googleusercontent.com/MTW7-Zt0ygzEkexk8g52KbiNTcvCIQyjH5NwlWQFM9qq=w776-h564-no)
 
-I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE (23% acceptance rate). It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
+I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE (23% acceptance rate). It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas.
 
-The slide deck from the presentation is [here](https://docs.google.com/presentation/d/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo/edit?usp=sharing). 
+The slide deck from the presentation is [here](https://docs.google.com/presentation/d/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo/edit?usp=sharing).
 
 Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagereyes.org/blog/2014/vis-2014-wednesday) and it was mentioned in Moritz Stefaner and Enrico Bertini's [Data Stories](http://datastori.es/data-stories-43-ieee-vis14/) podcast.
+
+## Open Vis Conf presentation
+
+![](../images/everythingIsSeasonal.png)
+
+In April  2016 I had the pleasure of presenting at OpenVisConf. I spoke about how "Everything is Seasonal", showing how seasonal patterns are an important part of our lives and our data.
+
+Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [video](https://www.youtube.com/watch?v=IiF4-g001EQ), and [resources and referneces](https://github.com/zanarmstrong/everything-is-seasonal).
 
 ## Projects
 
@@ -113,5 +121,4 @@ Video posted [here](https://www.youtube.com/watch?v=1PHVN6gW82o#t=6s).
 
 ## Contact
 
-Reach out to me using the links at the top of the screen (just under the title) or on the [contact page](http://blog.zanarmstrong.com/contact/). 
-
+Reach out to me using the links at the top of the screen (just under the title) or on the [contact page](http://blog.zanarmstrong.com/contact/).
