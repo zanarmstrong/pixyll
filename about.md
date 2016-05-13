@@ -51,6 +51,10 @@ Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [vid
 
 ![](../images/weatherlines.png)
 
+[Exploring the Amazon with Code and Data](https://hi.stamen.com/exploring-the-amazon-with-code-and-data-5750afec6ef2#.xgsjed4hz)
+
+![](../images/amazon.png)
+
 [Same Pixels, Different Picture](http://blog.zanarmstrong.com/project/2015/01/29/DrawingOnePictureWithAnother/)
 
 <img src="https://lh3.googleusercontent.com/PlY6sIs_FrtX0JxNV_ZGQDZDMGdvfs_12PIpOcWdpVDR=w1118-h416-no" alt="" height="200" width="400">
