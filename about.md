@@ -25,6 +25,12 @@ The slide deck from the presentation is [here](https://docs.google.com/presentat
 
 Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagereyes.org/blog/2014/vis-2014-wednesday) and it was mentioned in Moritz Stefaner and Enrico Bertini's [Data Stories](http://datastori.es/data-stories-43-ieee-vis14/) podcast.
 
+If you want to use your own data with a D3 version of comet charts, fork [this bl.ock](http://bl.ocks.org/zanarmstrong/f7793345e15b0916d353ee33c54478c4).
+
+For an R version, check out the example and code [here](https://gist.github.com/zanarmstrong/6c2855a34f504029847485c690692e75).  
+
+At the Joint Statistical Meetings in Chicago in 2016, I'll be sharing this research as part of an invited panel on Recent Advances in Information Visualization.
+
 ## Open Vis Conf presentation
 
 ![](../images/everythingIsSeasonal.png)
@@ -32,6 +38,10 @@ Robert Kosera reviewed the presentation on his [Eager Eyes Blog](https://eagerey
 In April  2016 I had the pleasure of presenting at OpenVisConf. I spoke about how "Everything is Seasonal", showing how seasonal patterns are an important part of our lives and our data.
 
 Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [video](https://www.youtube.com/watch?v=IiF4-g001EQ), and [resources and referneces](https://github.com/zanarmstrong/everything-is-seasonal).
+
+## PolicyViz Podcast
+
+Jon Schawabish and I had a great conversation about seasonality, map projections, climate change, scrollytelling, and more as part of his PolicyViz podcast series. You can find it [here](http://policyviz.com/episode-54-zan-armstrong/). 
 
 ## Projects
 
