@@ -8,8 +8,6 @@ I analyze and visualize data. More generally, I am curious about how things work
 
 My experience includes being the lead analyst for Google search ads revenue globally, teaching high school math, and creating data visualizations for varied clients. 
 
-I also created the (surprisingly) popular [d3 number formatting block](http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e). 
-
 I am currently traveling the world, but will be back in early 2017. Contact me if you are interested to learn more or work together. 
 
 ## Open Vis Conf presentation
