@@ -7,11 +7,11 @@ permalink: /about/
 
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
 
-I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering.
+My experience includes being the lead analyst for Google search ads revenue globally, teaching high school math, and creating data visualizations for varied clients. 
 
-At Google, I was the lead analyst responsible for forecasting and analyzing global search ads revenue. Motivated by my work as an analyst, I developed a new charting style to visualize Simpson's paradox and related statistical issues.
+My claim to fame is having created the [d3 number formatting bl.ock](http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e) :). 
 
-I am currently doing freelance work in analysis/interactive visualization and studying. I am always on the lookout for great people to work with and important/interesting data to analyze and visualize.
+I am currently traveling the world, but will be back in early 2017 to continue freelance work in data visualization and analysis. Contact me if you are interested to learn more. 
 
 ## Data Viz Research
 
@@ -43,7 +43,14 @@ Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [vid
 
 Jon Schawabish and I had a great conversation about seasonality, map projections, climate change, scrollytelling, and more as part of his PolicyViz podcast series. You can find it [here](http://policyviz.com/episode-54-zan-armstrong/). 
 
-## Projects
+## Writing about Viz
+
+[Medium posts](https://medium.com/@zanarmstrong)
+
+[This Blog](http://blog.zanarmstrong.com/)
+
+
+## Personal Projects
 
 [Which is Bigger: Africa or North America?](http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/)
 
@@ -113,14 +120,6 @@ Jon Schawabish and I had a great conversation about seasonality, map projections
 
 [Animation with triangles](https://vimeo.com/110936580)
 
-
-## Writing
-
-[Current Writing](http://blog.zanarmstrong.com/)
-
-[Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
-
-[Previous blog](http://zanstrong.wordpress.com/)
 
 ## Teaching Data Viz
 
