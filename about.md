@@ -5,6 +5,10 @@ permalink: /about/
 ---
 
 
+## Portfolio website!
+I've moved my portfolio to [zanarmstrong.com](zanarmstrong.com)
+
+<!--
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
 
 I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering.
@@ -136,3 +140,4 @@ Video posted [here](https://www.youtube.com/watch?v=1PHVN6gW82o#t=6s).
 ## Contact
 
 Reach out to me using the links at the top of the screen (just under the title) or on the [contact page](http://blog.zanarmstrong.com/contact/).
+-->
