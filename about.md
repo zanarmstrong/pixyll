@@ -4,18 +4,23 @@ title: Zan Armstrong
 permalink: /about/
 ---
 
-
-## Portfolio website!
-I've moved my portfolio to [zanarmstrong.com](zanarmstrong.com)
+## Portfolio website
+My portfolio is now at [zanarmstrong.com](zanarmstrong.com). Thank you for checking it out!
 
 <!--
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
 
-I studied math at Williams College including research in configuration spaces, taught high school juniors at Chewonki Semester School in Maine, and raced through the forests of Sweden orienteering.
+My experience includes being the lead analyst for Google search ads revenue globally, teaching high school math, and creating data visualizations for varied clients. 
 
-At Google, I was the lead analyst responsible for forecasting and analyzing global search ads revenue. Motivated by my work as an analyst, I developed a new charting style to visualize Simpson's paradox and related statistical issues.
+I am currently traveling the world, but will be back in early 2017. Contact me if you are interested to learn more or work together. 
 
-I am currently doing freelance work in analysis/interactive visualization and studying. I am always on the lookout for great people to work with and important/interesting data to analyze and visualize.
+## Open Vis Conf presentation
+
+![](../images/everythingIsSeasonal.png)
+
+In April  2016 I had the pleasure of presenting at OpenVisConf. I spoke about how "Everything is Seasonal", showing how seasonal patterns are an important part of our lives and our data.
+
+Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [video](https://www.youtube.com/watch?v=IiF4-g001EQ), and [resources and referneces](https://github.com/zanarmstrong/everything-is-seasonal).
 
 ## Data Viz Research
 
@@ -35,19 +40,27 @@ For an R version, check out the example and code [here](https://gist.github.com/
 
 At the Joint Statistical Meetings in Chicago in 2016, I'll be sharing this research as part of an invited panel on Recent Advances in Information Visualization.
 
-## Open Vis Conf presentation
-
-![](../images/everythingIsSeasonal.png)
-
-In April  2016 I had the pleasure of presenting at OpenVisConf. I spoke about how "Everything is Seasonal", showing how seasonal patterns are an important part of our lives and our data.
-
-Links to [slides](http://slides.com/zanarmstrong/everything-is-seasonal#/), [video](https://www.youtube.com/watch?v=IiF4-g001EQ), and [resources and referneces](https://github.com/zanarmstrong/everything-is-seasonal).
-
 ## PolicyViz Podcast
 
 Jon Schawabish and I had a great conversation about seasonality, map projections, climate change, scrollytelling, and more as part of his PolicyViz podcast series. You can find it [here](http://policyviz.com/episode-54-zan-armstrong/). 
 
-## Projects
+## Writing about Viz
+
+[Medium posts](https://medium.com/@zanarmstrong)
+
+[This Blog](http://blog.zanarmstrong.com/)
+
+## Freelance Projects
+
+I worked with [Stamen](http://stamen.com/) on 3 very different projects: [National Geographic Amazon](http://www.nationalgeographic.com/climate-change/explore-amazonia/#/Map/Compare/?nav=true&focus=Interactive), [Atlas of Emotions](http://www.paulekman.com/atlas-of-emotions/), and Berkeley's Metagenomics. To find out more, you can read some of my posts on [Medium](https://medium.com/@zanarmstrong) related to my work and these projects. Eric Rodenbeck also interviewed me about these collaborations, which can be found [here](https://hi.stamen.com/stamen-exit-interview-zan-armstrong-d44d06e89d6d#.7ujmfgb3h). 
+
+I've also worked with Yale Univeristy scientists to create a visual interface for exploring neuro-relevant genes based on quantitative data about their expression by celltype.
+
+For the Google Fiber team, I analyzed data and built out an exploratory tool to help engineers discover factors affecting wifi speed.
+
+I advised Kickstarter on revenue forecasting analysis.
+
+## Personal Projects
 
 [Which is Bigger: Africa or North America?](http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/)
 
@@ -117,14 +130,6 @@ Jon Schawabish and I had a great conversation about seasonality, map projections
 
 [Animation with triangles](https://vimeo.com/110936580)
 
-
-## Writing
-
-[Current Writing](http://blog.zanarmstrong.com/)
-
-[Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
-
-[Previous blog](http://zanstrong.wordpress.com/)
 
 ## Teaching Data Viz
 
