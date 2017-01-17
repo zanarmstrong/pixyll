@@ -4,6 +4,10 @@ title: Zan Armstrong
 permalink: /about/
 ---
 
+## Portfolio website
+My portfolio is now at [zanarmstrong.com](zanarmstrong.com). Thank you for checking it out!
+
+<!--
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
 
 My experience includes being the lead analyst for Google search ads revenue globally, teaching high school math, and creating data visualizations for varied clients. 
@@ -141,3 +145,4 @@ Video posted [here](https://www.youtube.com/watch?v=1PHVN6gW82o#t=6s).
 ## Contact
 
 Reach out to me using the links at the top of the screen (just under the title) or on the [contact page](http://blog.zanarmstrong.com/contact/).
+-->
