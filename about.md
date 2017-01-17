@@ -4,8 +4,8 @@ title: Zan Armstrong
 permalink: /about/
 ---
 
-## Portfolio website
-My portfolio is now at [zanarmstrong.com](zanarmstrong.com). Thank you for checking it out!
+#### Portfolio website
+To learn more about me and my work, please check out my updated portfolio at [zanarmstrong.com](zanarmstrong.com). Thank you!
 
 <!--
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
