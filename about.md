@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 #### Portfolio website
-To learn more about me and my work, please check out my updated portfolio at [zanarmstrong.com](zanarmstrong.com). Thank you!
+To learn more about me and my work, please check out my updated portfolio at [zanarmstrong.com](https://www.zanarmstrong.com/). Thank you!
 
 <!--
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others.
